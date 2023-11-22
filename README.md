@@ -176,6 +176,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RenovationIGuess/RenovationIGuess/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RenovationIGuess/github-profile/output/snake.svg" alt="Snake animation" />
 
 ###
