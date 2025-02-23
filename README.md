@@ -1,5 +1,7 @@
 <!-- Hi! -->
 <h1 align="center">Hi 👋, I'm Lam</h1>
+<p align="center">📫 How to reach me: <b>nguyentunglam724@gmail.com</b></p>
+
 <!-- <h3 align="center">A Normal student at HUST (So 1 Dai Co Viet) :(</h3> -->
 
 <!-- Background Image :v -->
@@ -120,9 +122,9 @@
 <!--   <a href="690861196034965525" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a> -->
-  <a href="nguyentunglam724@gmail.com" target="_blank">
+<!--   <a href="nguyentunglam724@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/profile.php?id=100017352246348" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
