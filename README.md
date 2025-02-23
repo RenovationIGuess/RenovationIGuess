@@ -17,7 +17,7 @@
 
 ### -->
 
-<img height="200" src="assets/images/Paiwowtrans.png" style="transform: scaleX(-1);float: right;"  />
+<img align="right" height="200" src="assets/images/Paiwowtrans.png" style="transform: scaleX(-1);"  />
 
 <!--### -->
 
