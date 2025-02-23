@@ -17,7 +17,7 @@
 
 ### -->
 
-<img align="right" height="200" src="https://firebasestorage.googleapis.com/v0/b/gr1-project-bebf6.appspot.com/o/github_portfolio%2FPaiwowtrans.png?alt=media&token=682356b1-b0aa-4406-b80a-e48a7cf261b3"  />
+<img height="200" src="assets/images/Paiwowtrans.png" style="transform: scaleX(-1);float: right;"  />
 
 <!--### -->
 
@@ -186,17 +186,14 @@
         <img 
             src="assets/badges/saa-c03.png" 
             alt="saa-c03" 
-            width="80" 
-            height="80"
+            width="100" 
+            height="100"
         /> 
     </a>
 </p>
 
 <!-- Snake -->
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RenovationIGuess/RenovationIGuess/output/snake.svg" alt="Snake animation" />
-
-###
