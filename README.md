@@ -186,8 +186,8 @@
         <img 
             src="assets/badges/saa-c03.png" 
             alt="saa-c03" 
-            width="50" 
-            height="50"
+            width="80" 
+            height="80"
         /> 
     </a>
 </p>
