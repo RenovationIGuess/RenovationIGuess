@@ -192,6 +192,14 @@
             height="100"
         /> 
     </a>
+    <a href="https://www.credly.com/badges/46857c9f-ba0f-40d7-a5ab-bfc57384b6f9/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/dva-c02.png" 
+            alt="dva-c02" 
+            width="100" 
+            height="100"
+        /> 
+    </a>
 </p>
 
 <!-- Snake -->
