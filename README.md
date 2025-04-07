@@ -200,6 +200,15 @@
             height="100"
         /> 
     </a>
+    <a href="https://www.credly.com/badges/ab3ac30a-f6a4-4d83-bb57-8e2af04741f3/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/sap-c02.png" 
+            alt="sap-c02" 
+            width="100" 
+            height="100"
+        /> 
+    </a>
+    
 </p>
 
 <!-- Snake -->
