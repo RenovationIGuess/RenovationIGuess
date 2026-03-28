@@ -208,7 +208,14 @@
             height="100"
         /> 
     </a>
-    
+    <a href="https://www.credly.com/badges/b1e989bd-c2de-442a-a35e-cbb054290f85/public_url" target="_blank" rel="noreferrer"> 
+        <img 
+            src="assets/badges/mla-c01.png" 
+            alt="mla-c01" 
+            width="100" 
+            height="100"
+        /> 
+    </a>
 </p>
 
 <!-- Snake -->
